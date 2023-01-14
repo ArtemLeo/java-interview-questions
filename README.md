@@ -1,5 +1,5 @@
 <h1 align>Java-Interview-Questions 🖐</h1>
-<h2>Вопросы для собеседования на Java Developer</h2>
+<h2>Вопросы для собеседования на Java Developer 👇</h2>
 
 + [ООП](#ООП) ![icon][done]
 + [JVM](#jvm) ![icon][done]
